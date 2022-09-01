@@ -1,0 +1,15 @@
+1.WAP to store n employee’s data such as employee name, gender,
+designation, department, basic pay. Calculate the gross pay of each
+employees as follows:
+Gross pay = basic pay + HR + DA
+HR=25% of basic and DA=75% of basic.
+
+2.WAP to add two distances (in km-meter) by passing structure to a function.
+3. WAP to read two polynomial and perform their addition using array.
+
+
+4. WAP to read two polynomial and perform their subtraction using array.
+5. WAP to read two polynomial and perform their multiplication using array.
+6. WAP to read two polynomial and perform their division using array.
+7. Write an algorithm to add the original sparse matrix with the transpose of the same matrix.
+8. Write an algorithm to multiply two sparse matrices.
